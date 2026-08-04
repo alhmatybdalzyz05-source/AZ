@@ -10,7 +10,8 @@
     "paymentMethod": "جيب (Jeeb)",
     "username": "admin",
     "password": "12",
-    "status": "تم الدفع ✓"
+    "status": "تم الدفع ✓",
+    "certificatePrinted": true
   },
   {
     "code": "STD-512301",
