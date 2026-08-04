@@ -11,5 +11,18 @@
     "username": "admin",
     "password": "12",
     "status": "قيد الانتظار"
+  },
+  {
+    "code": "STD-512301",
+    "fullName": "محم",
+    "age": "2",
+    "gender": "ذكر",
+    "qualification": "32",
+    "phone": "سي",
+    "attendanceType": "أونلاين",
+    "paymentMethod": "جيب (Jeeb)",
+    "username": "1",
+    "password": "1",
+    "status": "قيد الانتظار"
   }
 ]
