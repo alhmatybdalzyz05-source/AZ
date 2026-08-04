@@ -51,5 +51,18 @@
     "username": "12",
     "password": "12",
     "status": "تم الدفع ✓"
+  },
+  {
+    "code": "STD-569105",
+    "fullName": "علي",
+    "age": "2",
+    "gender": "ذكر",
+    "qualification": "32",
+    "phone": "22222",
+    "attendanceType": "حضورياً",
+    "paymentMethod": "جيب (Jeeb)",
+    "username": "7",
+    "password": "7",
+    "status": "قيد الانتظار"
   }
 ]
