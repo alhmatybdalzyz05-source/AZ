@@ -24,5 +24,18 @@
     "username": "1",
     "password": "1",
     "status": "تم الدفع ✓"
+  },
+  {
+    "code": "STD-972939",
+    "fullName": "صالح",
+    "age": "23",
+    "gender": "ذكر",
+    "qualification": "سمني",
+    "phone": "سيتن",
+    "attendanceType": "أونلاين",
+    "paymentMethod": "جيب (Jeeb)",
+    "username": "123",
+    "password": "123",
+    "status": "قيد الانتظار"
   }
 ]
