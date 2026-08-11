@@ -64,5 +64,18 @@
     "username": "7",
     "password": "7",
     "status": "قيد الانتظار"
+  },
+  {
+    "code": "STD-254947",
+    "fullName": "محمد",
+    "age": "22",
+    "gender": "ذكر",
+    "qualification": "بكالوريوس",
+    "phone": "774333904",
+    "attendanceType": "حضورياً",
+    "paymentMethod": "جيب (Jeeb)",
+    "username": "M7M774",
+    "password": "12345",
+    "status": "قيد الانتظار"
   }
 ]
