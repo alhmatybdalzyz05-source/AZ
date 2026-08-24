@@ -103,5 +103,18 @@
     "username": "Mohammed",
     "password": "777777",
     "status": "قيد الانتظار"
+  },
+  {
+    "code": "STD-405566",
+    "fullName": "علي ربيع",
+    "age": "15",
+    "gender": "ذكر",
+    "qualification": "ثانوي",
+    "phone": "7142014",
+    "attendanceType": "أونلاين",
+    "paymentMethod": "جيب (Jeeb)",
+    "username": "123",
+    "password": "123",
+    "status": "قيد الانتظار"
   }
 ]
