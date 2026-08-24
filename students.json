@@ -90,5 +90,18 @@
     "username": "M7M774",
     "password": "12345",
     "status": "قيد الانتظار"
+  },
+  {
+    "code": "STD-149054",
+    "fullName": "محمد مطهر",
+    "age": "22",
+    "gender": "ذكر",
+    "qualification": "بكالوريوس",
+    "phone": "774333904",
+    "attendanceType": "أونلاين",
+    "paymentMethod": "جيب (Jeeb)",
+    "username": "Mohammed",
+    "password": "777777",
+    "status": "قيد الانتظار"
   }
 ]
