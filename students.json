@@ -194,5 +194,18 @@
     "username": "عبير",
     "password": "203@",
     "status": "قيد الانتظار"
+  },
+  {
+    "code": "STD-805435",
+    "fullName": "علي محمد احمد القاسمي",
+    "age": "18",
+    "gender": "ذكر",
+    "qualification": "جامعي",
+    "phone": "777777777",
+    "attendanceType": "أونلاين",
+    "paymentMethod": "كريمي باي (Kuraimi)",
+    "username": "Ali2026",
+    "password": "Ali2026",
+    "status": "قيد الانتظار"
   }
 ]
